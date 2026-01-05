@@ -1,0 +1,19 @@
+# Vagrant
+.vagrant/
+
+# VMware
+*.vmx.lck
+*.vmdk.lck
+*.log
+
+# Ansible
+*.retry
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
